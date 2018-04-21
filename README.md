@@ -3,6 +3,8 @@
 # MyData SDK Components
 This is a part of MyData-SDK implementation of MyData Architecture.
 
+> **See the Reference implementation of MyData Architecture Framework 2.0 at <https://github.com/mydata-sdk/mydata-sdk>**
+
 Components are split to their own folders
 
 - [ MyData Account ](/Account/)
